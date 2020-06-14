@@ -1,0 +1,14 @@
+C:\Users\239914\Source\Repos\WebApiValuesService\WebApiValuesService\bin\Debug\netcoreapp2.2\WebApiValuesService.deps.json
+C:\Users\239914\Source\Repos\WebApiValuesService\WebApiValuesService\bin\Debug\netcoreapp2.2\WebApiValuesService.runtimeconfig.json
+C:\Users\239914\Source\Repos\WebApiValuesService\WebApiValuesService\bin\Debug\netcoreapp2.2\WebApiValuesService.runtimeconfig.dev.json
+C:\Users\239914\Source\Repos\WebApiValuesService\WebApiValuesService\bin\Debug\netcoreapp2.2\WebApiValuesService.dll
+C:\Users\239914\Source\Repos\WebApiValuesService\WebApiValuesService\bin\Debug\netcoreapp2.2\WebApiValuesService.pdb
+C:\Users\239914\Source\Repos\WebApiValuesService\WebApiValuesService\obj\Debug\netcoreapp2.2\WebApiValuesService.csprojAssemblyReference.cache
+C:\Users\239914\Source\Repos\WebApiValuesService\WebApiValuesService\obj\Debug\netcoreapp2.2\WebApiValuesService.csproj.CoreCompileInputs.cache
+C:\Users\239914\Source\Repos\WebApiValuesService\WebApiValuesService\obj\Debug\netcoreapp2.2\WebApiValuesService.RazorAssemblyInfo.cache
+C:\Users\239914\Source\Repos\WebApiValuesService\WebApiValuesService\obj\Debug\netcoreapp2.2\WebApiValuesService.RazorAssemblyInfo.cs
+C:\Users\239914\Source\Repos\WebApiValuesService\WebApiValuesService\obj\Debug\netcoreapp2.2\WebApiValuesService.AssemblyInfoInputs.cache
+C:\Users\239914\Source\Repos\WebApiValuesService\WebApiValuesService\obj\Debug\netcoreapp2.2\WebApiValuesService.AssemblyInfo.cs
+C:\Users\239914\Source\Repos\WebApiValuesService\WebApiValuesService\obj\Debug\netcoreapp2.2\WebApiValuesService.RazorTargetAssemblyInfo.cache
+C:\Users\239914\Source\Repos\WebApiValuesService\WebApiValuesService\obj\Debug\netcoreapp2.2\WebApiValuesService.dll
+C:\Users\239914\Source\Repos\WebApiValuesService\WebApiValuesService\obj\Debug\netcoreapp2.2\WebApiValuesService.pdb
