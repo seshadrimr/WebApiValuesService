@@ -34,7 +34,7 @@ namespace WebApiValuesService.Controllers
         [HttpPut("{id}")]
         public ActionResult<string> Put(int id, [FromBody] string value)
         {
-            return id.ToString() + " " + value;
+            return id.ToString() + " " + "new value";
         }
 
         // DELETE api/values/5
