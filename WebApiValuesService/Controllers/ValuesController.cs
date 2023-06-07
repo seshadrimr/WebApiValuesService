@@ -31,7 +31,7 @@ namespace WebApiValuesService.Controllers
         }
 
         // PUT api/values/5
-        [HttpPut("{id}")]
+        [HttpPut("{input}")]
         public ActionResult<string> Put(string input)
         {
             return "Input value: "+ input +" received at WebApi. Processed response is.. Hi " + input;
